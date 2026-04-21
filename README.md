@@ -1,4 +1,5 @@
-```classDiagram
+```mermaid
+classDiagram
     Character <|-- Culprit
     Game --o Character
 
