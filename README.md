@@ -1,4 +1,4 @@
-classDiagram
+```classDiagram
     Character <|-- Culprit
     Game --o Character
 
@@ -26,3 +26,4 @@ classDiagram
         +Culprit()
         +Culprit(falseLocation string, weapon string, redHerring Witness)
     }
+```
